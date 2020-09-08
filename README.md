@@ -12,4 +12,4 @@ This project includes python programs to show Keras LSTM can be used to predict 
 - Training, predicting and visualizing the result.
 
 ## Model:
-https://github.com/surajsharma21/Stock-Price-Prediction-using-LSTM/blob/master/Prediction%20model.png
+![i](https://github.com/surajsharma21/Stock-Price-Prediction-using-LSTM/blob/master/Prediction%20model.png)
